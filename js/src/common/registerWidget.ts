@@ -13,5 +13,5 @@ export default function (app: Application) {
       placement: 'end',
       position: 2,
     })
-    .extend(app, 'litalino-flarum-forum-stats-widget');
+    .extend(app, 'litalino-forum-stats-widget');
 }
