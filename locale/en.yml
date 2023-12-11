@@ -1,0 +1,14 @@
+flarum-forum-stats-widget:
+  forum:
+    widget:
+      stats:
+        comment_post_count: Posts
+        discussion_count: Discussions
+        user_count: Users
+        tags_count: Tags
+        blog_count: Blog
+        group_count: Group
+        online_guests: Online Guests
+        online_users: Online Users
+
+      title: Forum Stats

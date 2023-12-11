@@ -1,0 +1,14 @@
+flarum-forum-stats-widget:
+  forum:
+    widget:
+      stats:
+        comment_post_count: Bài viết
+        discussion_count: Thảo luận
+        user_count: Người dùng
+        tags_count: Thẻ
+        blog_count: Blog
+        group_count: Nhóm
+        online_guests: Khách trực tuyến
+        online_users: Thành viên trực tuyến
+
+      title: Thống kê diễn đàn
