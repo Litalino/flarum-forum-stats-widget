@@ -8,7 +8,7 @@ PLugin Developer: afrux/forum-stats-widget
 
 PLugin Clone Co-development: Litalino/flarum-forum-stats-widget
 
-![Forum Stats Widget](https://github.com/Litalino/flarum-forum-stats-widget/assets/99712477/02938edd-511e-4ccc-b455-4ce5cc0a2f8c)
+![Forum Stats Widget](https://github.com/Litalino/flarum-forum-stats-widget/assets/99712477/05931611-e484-4b55-a3d7-9b255867cafd)
 
 
 ## Installation
